@@ -1,5 +1,5 @@
 class Parent{
-String name = 'Haryo Darma Putra';
+String name = 'Harmno darma Putra';
 String group = '4';
 void morning(){
     print('Good Morning $name from group $group');
